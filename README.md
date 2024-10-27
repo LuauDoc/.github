@@ -1,0 +1,2 @@
+# .github
+Stores GitHub configuration.
