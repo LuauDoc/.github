@@ -1,2 +1,0 @@
-# .github
-Stores GitHub configuration.
